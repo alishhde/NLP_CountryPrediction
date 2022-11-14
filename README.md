@@ -5,5 +5,7 @@ The notebook existing in this repo is the solution to predicting the countries n
 The accuracy of this project is ~ 92.
 
 
+Also, the notebook contains the PCA algorithm helping us in reducing the dimension.
+
 `Acknowledgement` This notebook and most of its instructions has been adopted from the NLP course offering by Stanford University, published in Coursera.
  
